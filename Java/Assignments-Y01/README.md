@@ -11,5 +11,5 @@
 - Assignment 08
 - Assignment 09
 - Assignment 10
-- Assignment 11
-- Assignment 12
+- Assignment 11 - Based on trial exam fall 2019
+- Assignment 12 - Based on final exam fall 2020
